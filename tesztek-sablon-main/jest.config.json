@@ -1,0 +1,12 @@
+{
+    "testMatch": [
+        "**/tests/frontend/*.test.js"
+    ],
+    "collectCoverageFrom": [
+        "resources/js/functions/*.{js,jsx}",
+        "resources/js/components/*.{js,jsx}"
+    ],
+    "collectCoverage": true,
+    "coverageDirectory": "tests/reportFrontend",
+    "testEnvironment": "jsdom"
+}

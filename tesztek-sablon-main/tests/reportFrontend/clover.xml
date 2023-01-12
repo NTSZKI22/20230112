@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1673546207167" clover="3.2.0">
+  <project timestamp="1673546207167" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="8" coveredconditionals="8" methods="14" coveredmethods="14" elements="60" coveredelements="60" complexity="0" loc="38" ncloc="38" packages="2" files="6" classes="6"/>
+    <package name="components">
+      <metrics statements="23" coveredstatements="23" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10"/>
+      <file name="App.js" path="C:\laragon\www\tesztek-sablon-main\resources\js\components\App.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="Button.js" path="C:\laragon\www\tesztek-sablon-main\resources\js\components\Button.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+      </file>
+      <file name="Checkbox.js" path="C:\laragon\www\tesztek-sablon-main\resources\js\components\Checkbox.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+      </file>
+      <file name="Link.js" path="C:\laragon\www\tesztek-sablon-main\resources\js\components\Link.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="functions">
+      <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="app.js" path="C:\laragon\www\tesztek-sablon-main\resources\js\functions\app.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+      <file name="string.js" path="C:\laragon\www\tesztek-sablon-main\resources\js\functions\string.js">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
